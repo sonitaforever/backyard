@@ -1,0 +1,105 @@
+/* Tu CSS va aqui */
+
+
+*{
+    font-family: 'Yatra One', cursive;
+    color: #464646;
+}
+
+/* Este es el header*/
+.header{
+    background-image: url(../image/ava7patterns_pattern_1890.png);
+}
+
+.logo{
+    text-align: left;
+
+}
+
+.logo1{
+    width: 25%;
+    margin-top: 20px;
+
+}
+
+
+menu{
+    text-align: left;
+}
+
+.menu1 ul li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.menu1 ul li a{
+    text-decoration: none;
+    color: #464646;
+    font-size: 18px;
+
+}
+
+/* Este es el section */
+
+
+
+.contaflu{
+    background-color:#99FF00 ;
+}
+
+.titulo{
+    margin-top: 40px;
+}
+
+.parrafo{
+    margin-top: 2px;
+}
+
+.parrafo p{
+    margin-bottom: 30px;
+}
+
+ .titulo1{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    width: 50%
+}
+.div1{
+    margin-bottom: 10px;
+}
+
+.btn{
+    width: 40%;
+}
+
+
+.form{
+    background-color: #91FB4B;
+    padding: -30px;
+    margin-top: 80px;
+}
+
+.formulario{
+    text-align: left;
+    padding: 10px;
+    
+}
+
+/* Este es el footer */
+
+.footer{
+    background-image: url(../image/ava7patterns_pattern_1890.png);
+}
+
+.footer1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+@media (min-width: 535px) and (max-width: 824px)
+
+
+
