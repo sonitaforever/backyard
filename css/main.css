@@ -31,6 +31,8 @@ menu{
     display: inline-block;
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: -10px;
 
 }
 
@@ -51,10 +53,12 @@ menu{
 
 .titulo{
     margin-top: 40px;
+
 }
 
 .parrafo{
     margin-top: 2px;
+    margin-left: -15px;
 }
 
 .parrafo p{
@@ -66,26 +70,27 @@ menu{
     margin-bottom: 10px;
     width: 50%
 }
+
+input{
+    border-radius: 5px;
+}
 .div1{
     margin-bottom: 10px;
 }
 
 .btn{
-    width: 40%;
+    width: 100%;
 }
 
 
 .form{
     background-color: #91FB4B;
-    padding: -30px;
     margin-top: 80px;
+    border-radius: 5px;
+    width: 21%;
+    padding: 12px;
 }
 
-.formulario{
-    text-align: left;
-    padding: 10px;
-    
-}
 
 /* Este es el footer */
 
@@ -94,12 +99,18 @@ menu{
 }
 
 .footer1{
+    text-align: left;
+
+
+}
+
+.footer2{
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 130px;
+
 }
 
 
-@media (min-width: 535px) and (max-width: 824px)
 
 
 

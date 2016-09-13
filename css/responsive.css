@@ -1,0 +1,9 @@
+
+@media (max-width: 535px){
+    [class*="col-"] {
+        width: 100%;
+    }
+    form{
+    	width: 90%;
+    }
+}
